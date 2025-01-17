@@ -59,5 +59,8 @@ a.bg-louie:focus,a.bg-louie:hover,button.bg-louie:focus,button.bg-louie:hover{ba
 .bg-exyu{background-color:#708090!important}
 a.bg-exyu:focus,a.bg-exyu:hover,button.bg-exyu:focus,button.bg-exyu:hover{background-color:#b4444!important}
 
+.bg-success{background-color:#228b22!important}
+a.bg-success:focus,a.bg-success:hover,button.bg-success:focus,button.bg-success:hover{background-color:#b4444!important}
+
 
 //== **  Progress bar ** ==//
